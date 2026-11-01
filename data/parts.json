@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-laws-01.json": {
+   "acts": [
+    "tax-administration-and-consolidation-law-2022"
+   ],
+   "sha256": "c012af0452e08aa9f8cc322968f8206c77f89dca9bf4bbf0c6f6deadb6520e67"
+  }
+ },
+ "schema": 1
+}
