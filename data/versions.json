@@ -1,0 +1,19 @@
+{
+ "country": "NG-NI",
+ "acts": [
+  {
+   "slug": "tax-administration-and-consolidation-law-2022",
+   "short": "Tax Administration and Consolidation Law 2022",
+   "title": "Niger State Tax Administration and Consolidation Law, 2022",
+   "url": "https://nigerstate.gov.ng/wp-content/uploads/2023/12/NIGER-STATE-TAX-ADMINISTRATION-AND-CONSOLIDATION-LAW-2022-1.pdf",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 174,
+     "source_url": "https://nigerstate.gov.ng/wp-content/uploads/2023/12/NIGER-STATE-TAX-ADMINISTRATION-AND-CONSOLIDATION-LAW-2022-1.pdf",
+     "sha256": "33c289979067ef137b2611bf39f6d449e6fd686dd67922ad5b35b840dde5b551"
+    }
+   ]
+  }
+ ]
+}

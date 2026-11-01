@@ -1,0 +1,8 @@
+{
+  "path": "ng-ni",
+  "code": "NG-NI",
+  "name": "Niger State",
+  "level": "country",
+  "repo": "https://github.com/lexifina/nigeria-niger-law",
+  "build": "built: Laws of Niger State as enacted, from the copies published by the Niger State Government"
+}
